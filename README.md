@@ -1,9 +1,6 @@
 <div align="center">
-
-<!-- COLOQUE AQUI O SEU BANNER -->
-<!-- Exemplo:
-<img src="imgs/banner-github.gif" width="100%">
--->
+<img src="ChatGPT Image 3 de ago. de 2026, 20_21_11.png
+" width="100%">
 
 # ✦ Livia Siqueira
 
