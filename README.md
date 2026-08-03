@@ -1,23 +1,35 @@
-<h1 align="center">Hi! 👋 Eu sou a Livia Siqueira</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=Estudante+de+Tecnologia+da+Informação;Full+Stack+Júnior+%2B+IA;Construindo+meu+portfólio+um+projeto+de+cada+vez." />
-</p>
+# 🌙 Olá, eu sou a Livia Siqueira
 
-<p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="320">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1200&color=C792EA&center=true&vCenter=true&width=700&lines=Estudante+de+Tecnologia+da+Informação;Full+Stack+Júnior+%2B+IA;Construindo+meu+portfólio+um+projeto+de+cada+vez." />
+
+<br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+
+</div>
 
 ---
 
 # 🌸 Sobre mim
 
-```js
+```javascript
 const livia = {
+    nome: "Livia Siqueira",
     formação: "Tecnologia da Informação",
-    estudando: ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
-    foco: "Desenvolvimento Full Stack + IA",
-    objetivo: "Construir soluções úteis e continuar evoluindo como desenvolvedora."
+    estudando: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "GitHub"
+    ],
+
+    foco: "Full Stack + IA",
+
+    objetivo:
+        "Evoluir constantemente como desenvolvedora e transformar ideias em projetos reais."
 }
 ```
 
@@ -25,51 +37,67 @@ const livia = {
 
 # 💻 Tecnologias
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
+
+</div>
 
 ---
 
 # 🚀 Projeto em destaque
 
-## Great Oversized
+## 🛍️ Great Oversized
 
-Landing page desenvolvida para uma loja fictícia de camisetas oversized.
+Landing Page responsiva desenvolvida para uma loja fictícia de camisetas oversized.
 
 ### Funcionalidades
 
- Layout Responsivo
-  
- Catálogo de produtos
+- ✦ Layout Responsivo
+- ✦ Catálogo de Produtos
+- ✦ Navegação entre páginas
+- ✦ Cadastro de usuário
+- ✦ Integração com API ViaCEP
 
- Navegação entre páginas
+### Tecnologias
 
- Cadastro de usuário
+HTML • CSS • JavaScript • API ViaCEP
 
- Integração com a API ViaCEP
+🔗 **Repositório**
 
----
-
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=liviall-siqueira&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviall-siqueira&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+https://github.com/liviall-siqueira/oversized-store
 
 ---
 
-#  Atualmente estudando
+# 📈 Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=liviall-siqueira&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviall-siqueira&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Atualmente estudando
 
 - JavaScript
-- APIs REST
+- Consumo de APIs
 - Git e GitHub
 - Responsividade
 - Desenvolvimento Full Stack
+
+---
+
+# ☕ Um pouco sobre mim
+
+🌸 Gosto de aprender construindo projetos.
+
+💜 Acredito que a prática é a melhor forma de evoluir.
+
+☕ Café, código e um ambiente tranquilo fazem parte da minha rotina de estudos.
 
 ---
 
@@ -79,8 +107,10 @@ Landing page desenvolvida para uma loja fictícia de camisetas oversized.
 
 ---
 
-<p align="center">
+<div align="center">
 
-*"Todo projeto começa com uma linha de código."* 💛
+### 🌸 Obrigada pela visita!
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+</div>
