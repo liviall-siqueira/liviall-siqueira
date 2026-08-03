@@ -24,7 +24,7 @@ Desenvolvendo projetos, aprendendo todos os dias e construindo meu portfólio.
 ```javascript
 const livia = {
 
-    formação: "Tecnologia da Informação",
+    formação: "Full Stack Júnior",
 
     estudando: [
         "HTML",
